@@ -14,7 +14,7 @@ OPEN, HIGH, LOW and CLOSE are information about exchange rate for specified peri
 Application also calculates VOLATILITY for specified period of time (which is a difference between highest and lowest value).
 Currently it is assumed that data loaded from file contains EUR-USD exchange rate data.
 
-*Even though bootcamp finished, application is still being developed*
+*Even though bootcamp has finished, application is still being developed*
 
 ## Technologies
 Project is created with:
